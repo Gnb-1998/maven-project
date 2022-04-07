@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background="purple";}
-</style>
-<title>Page Title<title>
+<title>Page Title</title>
 </head>
 <body>
-<h1>Yay</h1>
-<p>yay is a word used to describe that your happy!</p>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
